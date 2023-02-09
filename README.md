@@ -11,58 +11,27 @@ Essas instruções que verão abaixo, contempla toda o desenvolvimenro e execus�
 De que coisas você precisa para codificar e instalar o software?
 
 ```
-Dar exemplos
+Em desenvolvido.                                                        
 ```
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+Em desenvolvido.
 
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
+Em desenvolvimento.
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Em desenvolvimento.
 
 ## 🛠️ Construído com
 
 Para esse projeto, usamos para desenvolvido:
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) - IDE de Desenvolvimento;
+* [GitHub](https://github.com/) - Gerenciamento de Versão;
 
 ## 📌 Versão
 
@@ -76,5 +45,4 @@ Trabalho desenvolvido em parceria com a turma do curso Técnico em Desenvolvimen
 
 ## 📄 Licença
 
-Em construção.
-
+Em desenvolvido.
